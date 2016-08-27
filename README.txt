@@ -1,0 +1,1 @@
+Prva Java aplikacija u sklopu vježbi iz kolegija informatika, logika i jezici. Ucenje objektno orjentiranog programiranja.
